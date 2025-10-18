@@ -1,4 +1,4 @@
-# Kidney-Disease-Classification-MLflow-DVC
+# Glaucoma-Disease-Classification-MLflow-DVC
 
 
 ## Workflows
